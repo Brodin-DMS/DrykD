@@ -10,4 +10,5 @@ DevPic:
 <img src="03_Gather0.png" alt="">
 <img src="04_InventoryUI.png" alt="">
 <img src="Menu0.png" alt="">
-<img src="TRASHGather1.png" alt="">
+<img src="CraftUIImage.png" alt="">
+<img src="ItemPic.png" alt="">
